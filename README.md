@@ -1,4 +1,5 @@
 # insurance-agent  保险销售代理人——基于InternLM2.5
+ [大模型实战营](https://github.com/InternLM/Tutorial)
 
 ## 📢 介绍
 
